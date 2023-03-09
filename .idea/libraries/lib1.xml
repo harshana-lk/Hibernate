@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Version1.0.0/src/lk/ijse/hibernate/lib/jfoenix-9.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Version1.0.0/src/lk/ijse/hibernate/lib/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Version1.0.0/src/lk/ijse/hibernate/lib/mysql-connector-java-8.0.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
